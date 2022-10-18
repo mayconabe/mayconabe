@@ -17,3 +17,6 @@
 <a href="https://github.com/mayconabe/mayconabe">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </a>
+<div align="center">
+  https://github-readme-streak-stats.herokuapp.com/?user=mayconabe
+</div>
