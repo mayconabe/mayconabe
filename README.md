@@ -1,1 +1,2 @@
 [![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconabe&count_private=true?username=mayconabe?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight)](https://github.com/mayconabe/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mayconabe&repo=github-readme-stats)](https://github.com/mayconabe/github-readme-stats)
