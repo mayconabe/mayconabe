@@ -12,11 +12,11 @@
 </div>
 <br/>
 <a href="https://github.com/mayconabe/mayconabe">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=mayconabe&count_private=true?username=mayconabe?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=mayconabe&count_private=true?username=mayconabe?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=#0d1117" />
 </a>
 <a href="https://github.com/mayconabe/mayconabe">
-  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true" />
+  <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight&hide_border=true&bg_color=#0d1117" />
 </a>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconabe&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconabe&theme=tokyonight&hide_border=true&bg_color=#0d1117"/>
 </div>
