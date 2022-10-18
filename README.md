@@ -18,5 +18,5 @@
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight" />
 </a>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayconabe&theme=dark&background=000000"/>
 </div>
