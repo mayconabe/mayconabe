@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://giphy.com/stickers/glitch-computer-pc-XHAv3GveJMXMXSumkO" width="100"/>
+  <img src="https://media1.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=790b7611mwjcc4loo13vza0vz6smpuh6q9wvdiqb7dd98rox&rid=giphy.gif&ct=s" width="100"/>
 </div>
 <br/>
 <div id="badges" align="center">
