@@ -1,6 +1,6 @@
 <a href="https://github.com/mayconabe/mayconabe">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=mayconabe&repo=mayconabe](https://github-readme-stats.vercel.app/api?username=mayconabe&count_private=true?username=mayconabe?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mayconabe&count_private=true?username=mayconabe?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/mayconabe/mayconabe">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=mayconabe&repo=mayconabe](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconabe&theme=tokyonight)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconabe&theme=tokyonight" />
 </a>
