@@ -8,7 +8,7 @@
   </a>
 </div>
 <div id="badges" align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="View Count"/>
+  <img src="https://komarev.com/ghpvc/?username=mayconabe" alt="View Count"/>
 </div>
 <br/>
 <a href="https://github.com/mayconabe/mayconabe">
