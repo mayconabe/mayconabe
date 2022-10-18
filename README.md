@@ -1,2 +1,2 @@
 [![Maycon's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayconabe&count_private=true?username=mayconabe?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight)](https://github.com/mayconabe/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mayconabe&theme=tokyonight)](https://github.com/mayconabe/github-readme-stats)
