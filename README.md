@@ -7,6 +7,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username" alt="View Count"/>
+</div>
 <br/>
 <a href="https://github.com/mayconabe/mayconabe">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=mayconabe&count_private=true?username=mayconabe?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight" />
