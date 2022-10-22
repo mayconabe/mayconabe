@@ -13,10 +13,10 @@
 <br/>
 <div align="center">
   <a href="https://github.com/mayconabe/mayconabe">
-    <img align="center" height="180" width="48%" src="https://github-readme-stats.vercel.app/api?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img align="center" height="180" width="49%" src="https://github-readme-stats.vercel.app/api?username=mayconabe&show_icons=true?username=mayconabe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
   <a href="https://github.com/mayconabe/mayconabe">
-    <img align="center" height="180" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconabe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+    <img align="center" height="180" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayconabe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   </a>
 </div>
 <div align="center">
